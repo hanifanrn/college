@@ -1,1 +1,1 @@
-# colleague-regression
+# college-regression
